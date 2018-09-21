@@ -9,11 +9,38 @@ h1 {
   color: white;
 }
 
-ul {
+.landing p {
   font-size: 18px;
-  color: white;
+  color:white;
 }
 
 .landing {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
+#process {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#info, #work, #team, #contact {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#desc {
+  font-size: 14px;
+}
+
+.locat {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  }
+
+.footer {
+  font-size: 11px;
+  background-color: lightgray;
+  text-align: left;
 }
